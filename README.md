@@ -1,5 +1,5 @@
 # Book List App
-Book list is an app to save books. Is developed in **.NET Core** using **Razor pages** and **Entity Framework**.
+Book list is an app to save books. Is developed in **.NET Core 3.1** using **Razor pages** and **Entity Framework**.
 
 #### List 1 (standard table)
 <img src="https://github.com/PeterStos/book-list.github.io/blob/master/BookList/wwwroot/pics/booklisttable1.PNG" width=800>
